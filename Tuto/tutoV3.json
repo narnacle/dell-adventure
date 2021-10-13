@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/..\/Village\/Village.json"
+                 "value":"\/_\/global\/narnacle.github.io\/dell-adventure\/Village\/Village.json"
                 }],
          "type":"tilelayer",
          "visible":true,
