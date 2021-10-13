@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/..\/Tuto\/tutoV3.json#entry-from-village"
+                 "value":"\/_\/global\/narnacle.github.io\/dell-adventure\/Tuto\/tutoV3.json#entry-from-village"
                 }],
          "type":"tilelayer",
          "visible":true,
