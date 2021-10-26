@@ -54,7 +54,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"jisti-room-conf"
+                 "value":"Mq3nIP4RiPakROdilzUV"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -68,6 +68,17 @@
          "id":32,
          "name":"jitsiRoomVirtualOffice",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"QXGL93a0JuAbvJIOjOEA"
+                }, 
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/garticphone.com\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":57,
@@ -84,7 +95,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"wa-meeting-room"
+                 "value":"R8t2YRUIiMBzYihrloHQ"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -283,7 +294,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":34,
+ "nextlayerid":35,
  "nextobjectid":8,
  "orientation":"orthogonal",
  "properties":[
