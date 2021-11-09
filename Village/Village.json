@@ -73,11 +73,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"QXGL93a0JuAbvJIOjOEA"
-                }, 
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/garticphone.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
